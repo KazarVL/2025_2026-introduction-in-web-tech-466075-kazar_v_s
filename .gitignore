@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# MkDocs build
+my-personal-site/site/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
